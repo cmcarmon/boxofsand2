@@ -1,14 +1,13 @@
-Binaries
-DerivedDataCache
-Intermediate
-Saved
-.vscode
-.vs
-*.VC.db
-*.opensdf
-*.opendb
-*.sdf
-*.sln
-*.suo
-*.xcodeproj
-*.xcworkspace
+# Unreal Engine specific
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Plugins or external content
+/Engine/Plugins/Runtime/Synthesis/Content
